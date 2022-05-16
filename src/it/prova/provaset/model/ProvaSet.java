@@ -1,9 +1,11 @@
 package it.prova.provaset.model;
+import java.util.Set;
 
 public class ProvaSet {
 
 	private int x;
 	private int y;
+	private int z;
 
 	public ProvaSet(int x, int y) {
 		this.x = x;
